@@ -20,4 +20,4 @@ If you’d rather do a one-time test run, use `> grunt test` instead.
 
 ## Reference
 
-This project uses [Mocha] as the testing framework and includes the [Chai] assertion & matcher library.
+This project uses [Mocha](http://mochajs.org/) as the testing framework and includes the [Chai](http://chaijs.com/) assertion & matcher library.
