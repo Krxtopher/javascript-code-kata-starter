@@ -14,7 +14,7 @@ Add your own JavaScript files to the `src/` directory. Add your own test specs t
 
 To run your tests, type `> grunt test:live`
 
-This will automatically detect your files in the `src/` and `test/specs/` directories and launch a live test runner in Chrome. Just leave the browser open while you work. It will automatically refresh and re-run your tests anytime you edit either your source files or your spec files!
+This will automatically detect your files in the `src/` and `test/specs/` directories and launch a live test runner in your default browser. Just leave the browser open while you work. It will automatically refresh and re-run your tests anytime you edit either your source files or your spec files!
 
 If you’d rather do a one-time test run, use `> grunt test` instead.
 
