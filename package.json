@@ -1,0 +1,23 @@
+{
+  "name": "javascript-code-kata-starter",
+  "version": "0.1.0",
+  "description": "A simple, automated environment for experimenting with test-driven JavaScript development.",
+  "main": "",
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "grunt": "~0.4.1",
+    "browserify": "~2.35.1",
+    "grunt-browserify": "~1.2.11",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kris Schultz",
+  "license": "BSD-2-Clause"
+}
