@@ -10,7 +10,7 @@ This project provides a simple, automated environment for experimenting with tes
 
 ## How To Use
 
-Add your own JavaScript files to the `src/` directory. Add your own test specs to the `test/specs/` directory. See **src/sample.js** and **test/specs/sample.spec.js** for guidance on how to structure your source code and unit test code.
+Add your own JavaScript files to the `src/` directory. Add your own test specs to the `test/specs/` directory. See **src/myApp.js** and **test/specs/myApp.spec.js** for guidance on how to structure your source code and unit test code.
 
 To run your tests, type `> grunt test:live`
 
